@@ -1,0 +1,22 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    background: linear-gradient(45deg, #9E54FF, #A995FB, lightblue);}
+.time{
+    margin: 0;
+    color:white;
+    font-size: 30px;
+}
+
+.text{
+    margin: 0;
+    color: white;
+    font-size: 24px;
+    font-weight: 600
+}
